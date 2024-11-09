@@ -15,9 +15,8 @@ This is a stock market dashboard built using **Python**, **Dash**, **Plotly**, a
 
 - **Python**: For the backend and data processing.
 - **Dash**: For creating the interactive dashboard.
-- **Plotly**: For interactive data visualizations.
 - **Pandas**: For data manipulation and analysis.
-- **Yahoo Finance API**: For retrieving live stock market data.
+  
 
 ## Setup and Installation
 
